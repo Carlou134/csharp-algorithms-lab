@@ -1,3 +1,3 @@
-﻿using AlgorithmsLab.Lesson02_DataStructureApi;
+﻿using AlgorithmsLab.Lesson03_Nodes;
 
-Exercise02.Run();
+Exercise01.Run();
